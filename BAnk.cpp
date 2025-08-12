@@ -21,5 +21,6 @@ int main()
                  if(p==0) { system("CLS"); goto menu; } } else {cout<<"\nInvalid input try again"; goto fab;}} 
             else if(n==4)
               cout<<"Thanks for choosing us. Have a nice day.";
+            
    		  return 0; }
  
